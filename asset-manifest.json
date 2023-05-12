@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/box-shadow/static/css/main.0d962989.css",
+    "main.js": "/box-shadow/static/js/main.54beef61.js",
+    "static/js/787.a4587ce9.chunk.js": "/box-shadow/static/js/787.a4587ce9.chunk.js",
+    "index.html": "/box-shadow/index.html",
+    "main.0d962989.css.map": "/box-shadow/static/css/main.0d962989.css.map",
+    "main.54beef61.js.map": "/box-shadow/static/js/main.54beef61.js.map",
+    "787.a4587ce9.chunk.js.map": "/box-shadow/static/js/787.a4587ce9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d962989.css",
+    "static/js/main.54beef61.js"
+  ]
+}
